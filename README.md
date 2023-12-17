@@ -1,1 +1,1 @@
-# Discrete_Mathematics
+# Course Materials for Discrete_Mathematics (Ayrık Matematik)
